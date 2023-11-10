@@ -1,0 +1,17 @@
+{
+  "name": "backand-aula01",
+  "version": "1.0.0",
+  "description": "Projeto de aula backend SENAI",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "SENAI",
+    "TDS01"
+  ],
+  "author": "Thayna Vazzoler",
+  "license": "ISC"
+}
